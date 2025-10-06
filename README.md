@@ -10,9 +10,8 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Master Thesis**
  
- 🌱 I’m currently learning **Docker, Supabase, AWS, Pytorch**
+ 🌱 I’m currently learning **Docker, Supabase, AWS,...**
 
 💬 Ask me about **React,Python... **
 
